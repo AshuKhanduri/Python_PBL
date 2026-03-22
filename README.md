@@ -1,6 +1,5 @@
-# Python_PBL
-PBL Project.\n
-Problem Statement :\n 
+# Python_PBL : PBL Project.
+Problem Statement :
 Design and develop a regression-based machine learning system to predict house sale 
 price using a structured real-estate dataset consisting of 25 property-related features. 
 The dataset represents residential housing information collected from different regions 
